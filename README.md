@@ -1,7 +1,7 @@
 
 <div align="center">
 
-As a dedicated cybersecurity student, I am deeply passionate about offensive security, focusing specifically on web exploitation, red teaming, and penetration testing. I spend my time tackling hands-on challenges and analyzing systems, constantly pushing the boundaries of my technical knowledge to understand how complex web applications and network infrastructures can be compromised—and ultimately secured. My goal is to transform theoretical academic concepts into practical, real-world security assessments and actionable threat mitigation strategies.
+I am a cybersecurity student and ethical hacker with a specialized focus on web exploitation, red teaming, and comprehensive penetration testing. I leverage GitHub to document my security journey, share vulnerability research, and develop custom tooling. Driven by the critical-thinking aspect of InfoSec, I spend my time assessing web environments, simulating advanced persistent threats, and writing scripts to automate offensive security workflows. I am always open to collaborating on security-focused projects and connecting with fellow industry professionals.
 
 <br />
 
